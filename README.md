@@ -1,5 +1,5 @@
-## skeleton_read-Display
-Reading NTU Skeleton data and 2d display
+# skeleton_read-Display
+**Reading NTU Skeleton data and 2d display**
 
 # NTU RGB+D 120 Human Action Recognition Dataset
 
@@ -31,6 +31,6 @@ Each file/folder name in both datasets is in the format of SsssCcccPpppRrrrAaaa 
 The "NTU RGB+D" dataset includes the files/folders with setup numbers between S001 and S017, while the "NTU RGB+D 120" dataset includes the files/folders with setup numbers between S001 and S032.
 
 
-##More Details 
+## More Details 
 
 You might want to check out [here](https://github.com/shahroudy/NTURGB-D#ntu-rgbd-120-action-recognition-dataset)
