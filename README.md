@@ -135,6 +135,8 @@ Here are the Outputs we might get
 
 For any possible query regarding the datasets, please contact the first author of the paper.
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## How to download NTU dataset
 
 ###Skeleton Only Dataset
@@ -156,6 +158,7 @@ Each file/folder name in both datasets is in the format of SsssCcccPpppRrrrAaaa 
 
 The "NTU RGB+D" dataset includes the files/folders with setup numbers between S001 and S017, while the "NTU RGB+D 120" dataset includes the files/folders with setup numbers between S001 and S032.
 
+---------------------------------------------------------------------------------------------------------------------
 
 ## More Details 
 
